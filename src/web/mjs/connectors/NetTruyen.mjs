@@ -12,7 +12,7 @@ export default class NetTruyen extends MojoPortalComic {
                 label: 'URL',
                 description: 'This website changes their URL regularly.\nThis is the last known URL which can also be manually set by the user.',
                 input: 'text',
-                value: 'https://www.nettruyenus.com'
+                value: 'https://nettruyenvie.com/'
             }
         };
         this.links = {
