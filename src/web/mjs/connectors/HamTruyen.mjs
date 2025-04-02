@@ -8,7 +8,7 @@ export default class HamTruyen extends Connector {
         super.id = 'hamtruyen';
         super.label = 'HamTruyen';
         this.tags = [ 'manga', 'webtoon', 'vietnamese' ];
-        this.url = 'https://hamtruyen.vn';
+        this.url = 'https://hamtruyen1.com/';
     }
 
     async _getMangaFromURI(uri) {
